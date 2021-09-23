@@ -1,0 +1,10 @@
+{
+  "accessKey": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyIjp7ImlkIjozMDEzOTgzNDMsImVtYWlsIjoicm9uaS5zb3V6YUBnbWFpbC5jb20iLCJhcHBsaWNhdGlvbiI6MzAwMTE0MDIzfX0.fC2bhhkEEpa6tb6NtxDbCbv3ViEvARmvLM9IPKfATX6ItwLk2rnukqlFdK9fLHKEGmm7Cv2TkdqMu-k1dZVJFw",
+  "name": "Test Automation",
+  "organizatioId": "300603637",
+  "textFielLabel": "Start Form Text",
+  "TextPhasePipeLabel": "phasefieldlabel",
+  "cardTitle": "Test card",
+  "inicialFieldValue": "inicial text filling"
+
+}

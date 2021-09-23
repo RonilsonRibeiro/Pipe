@@ -1,0 +1,21 @@
+export const formElements = {
+    inpName: '[name="customFields.your_name"]',
+    inpWhyWork: '[name="customFields.why_do_you_want_to_work_at_pipefy"]',
+    chkCheckOption: '[for="publicForm_customFields.check_b_option_B"]',
+    chkCheckBox: '[type=checkbox]',
+    lnkSelectUser: '[name="customFields.select_any_user"]',
+    inpMemberFilter: '.pp-input.pp-display-block',
+    lstUserList: '.pp-item-list',
+    frmMainForm: '.pp-new-public-form-wrapper',
+    inpDateTime: '#fake-pipe-field-publicForm-customFields_select_today_s_date-input',
+    btnSave: '[title="Salvar"]',
+    slcOptions: '[name="customFields.select_option_b"]',
+    inpLocalTime: '[name="customFields.what_time_is_it_now"]',
+    lnkAttachFile: '.pp-attachment-alternative',
+    slcFlag: '.flag-container',
+    slcCountry: '.country',
+    inpPhoneNumber: '[name="customFields.place_a_phone_number_from_spain_country"]',
+    btnSubmit: '[data-pp-button="submit-fields"]',
+    inpCreatorEmail: '[name="creatorEmail"]',
+    btnSendEmail: '[data-pp-button="collect-creator-email"]'
+} 
